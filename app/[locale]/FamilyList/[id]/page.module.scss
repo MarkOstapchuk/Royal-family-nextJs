@@ -55,6 +55,16 @@
     width: 40%;
   }
 }
+
+@media screen and (max-width: 1024px) {
+  .slider {
+    width: 100%;
+    padding: 30px 10px;
+  }
+  .info {
+    padding: 40px 0;
+  }
+}
 @media screen and (max-width: 600px) {
   .info {
     display: block;
@@ -86,14 +96,5 @@
     iframe {
       height: 100px !important;
     }
-  }
-}
-@media screen and (max-width: 1024px) {
-  .slider {
-    width: 100%;
-    padding: 30px 10px;
-  }
-  .info {
-    padding: 40px 0;
   }
 }
