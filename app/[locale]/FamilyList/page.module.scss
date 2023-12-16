@@ -1,0 +1,26 @@
+.header {
+  height: 50vh;
+  background-color: rgba(49,48,50,0.53);
+}
+.intro {
+  text-align: center;
+  color: #eee;
+  padding-top: 170px;
+  font-size: 56px;
+}
+.main {
+  height: 100vh;
+  .search {
+    padding-top: 40px;
+    width: 300px;
+    margin: 0 auto;
+  }
+}
+.list {
+  padding-top: 120px;
+  display: flex;
+  justify-content: center;
+  >div {
+    margin: 0px 15px;
+  }
+}

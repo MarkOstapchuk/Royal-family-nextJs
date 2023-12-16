@@ -1,0 +1,32 @@
+.inner {
+  h2 {
+    text-align: center;
+    padding-top: 50px;
+  }
+  .card {
+    padding-top: 40px;
+    display: flex;
+    img {
+      margin-right: 50px;
+      width: 500px;
+      max-width: 40%;
+      height: 400px;
+      border: 1px solid #fff;
+      -webkit-box-shadow: 4px 10px 12px 7px rgba(34, 60, 80, 0.43);
+      -moz-box-shadow: 4px 10px 12px 7px rgba(34, 60, 80, 0.43);
+      box-shadow: 4px 10px 12px 7px rgba(34, 60, 80, 0.43);
+    }
+    h3 {
+      font-size: 27px;
+      text-shadow:
+              1px 1px white,
+              2px 2px #777;
+      color: #000;
+    }
+    h4 {
+      color: #000;
+      padding-top: 20px;
+      line-height: 1.6;
+    }
+  }
+}

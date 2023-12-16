@@ -1,0 +1,11 @@
+.box {
+  h2 {
+    text-align: center;
+    padding-top: 50px;
+  }
+  > div {
+    display: flex;
+    margin-top: 15%;
+    justify-content: space-between;
+  }
+}

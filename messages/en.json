@@ -1,0 +1,263 @@
+{
+  "Interface": {
+    "Nav": {
+      "el1": "Home",
+      "el2": "Family List"
+    },
+    "Main": {
+      "intro": "Royal Family of the Netherlands",
+      "about": "Welcome to our website dedicated to the Royal Family of the Netherlands. Here, you will find fascinating stories, biographies, and important events related to the royal dynasty. Our goal is to provide you with an engaging immersion into the history and culture of the Netherlands, showcasing outstanding personalities and their contributions to the country's history.",
+      "dayFigure": "Person of the Day",
+      "team": {
+        "title": "Development Team",
+        "list": {
+          "1": {
+            "name": "Vsevolod Mysiul",
+            "nickname": "Sergey Kashkevich",
+            "github": "https://github.com/SevaMisiul"
+          },
+          "2": {
+            "name": "Mark Ostapchuk",
+            "nickname": "Anime kid",
+            "github": "https://github.com/MarkOstapchuk"
+          },
+          "3": {
+            "name": "Alexander Voytov",
+            "nickname": "fool",
+            "github": "https://github.com/SeinekVoytov"
+          },
+          "4": {
+            "name": "Pavel Kratovich",
+            "nickname": "Og krot",
+            "github": "https://github.com/pavlkrat"
+          }
+        }
+      }
+    },
+    "FigureList": {
+      "intro": "Royal Family List",
+      "search": "Name",
+      "button": "View"
+    }
+  },
+  "FigureList": {
+    "1": {
+      "name": "King Willem-Alexander",
+      "img": "figure_1.jpeg",
+      "info": "Willem-Alexander has been reigning over the country since 2013, becoming the first male heir to the throne in over 100 years. For several years, Willem-Alexander was a member of the IOC but left the organization upon becoming king. He has a keen interest in water management, water supply, and hydrological management. Despite having a crown, Dutch monarchs, including Willem-Alexander, prefer not to wear it, and the official crown is relatively modest, made of gilded silver and adorned with artificial pearls and colored glass rather than precious stones. In addition to his royal duties, Willem-Alexander dedicates time to his favorite hobbies, such as participating in marathons. In 1986, he completed a 200-kilometer ice skating marathon under the pseudonym V.A. van Buren. He is also a passionate football fan, often seen enthusiastically supporting the national team from the stadium stands.",
+      "birthDate": "1967-04-27",
+      "deathDate": "pr. t.",
+      "bio": {
+        "1": {
+          "date": "April 27, 1967",
+          "text": "Willem-Alexander was born in Utrecht, Netherlands, as the eldest son of Prince Claus and Princess Beatrix."
+        },
+        "2": {
+          "date": "1980-2013",
+          "text": "Willem-Alexander receives education, including studying history at Utrecht University. He also serves in the Royal Netherlands Navy."
+        },
+        "3": {
+          "date": "2002",
+          "text": "Willem-Alexander marries Maxima Zorreguieta Cerruti in a ceremony that attracts public attention."
+        },
+        "4": {
+          "date": "2013",
+          "text": "Willem-Alexander ascends to the throne of the Netherlands after the abdication of his mother, Queen Beatrix. He becomes the first king of the Netherlands in 123 years."
+        },
+        "5": {
+          "date": "2013",
+          "text": "The coronation of Willem-Alexander and his spouse Maxima takes place at the Nieuwe Kerk in Amsterdam, marking a significant event in the kingdom's history."
+        },
+        "6": {
+          "date": "2020",
+          "text": "During the COVID-19 pandemic, King Willem-Alexander addresses the nation, calling for unity and support during challenging times."
+        },
+        "7": {
+          "date": "2022",
+          "text": "King Willem-Alexander actively participates in official events related to the celebration of the 200th anniversary of the Kingdom of the Netherlands."
+        }
+      },
+      "bioCount": "7",
+      "photos": "willem-alexander",
+      "photosCount": "11",
+      "video": "https://www.youtube.com/embed/am_D0e_VV8g?si=8c1fWwngOqHdCpQQ",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2451.9360076169296!2d4.3038828766545425!3d52.080894771949325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5b72fdfe99ded%3A0x8ff1e6b1c0cb564a!2sNoordeinde%20Palace!5e0!3m2!1sru!2sby!4v1702668229725!5m2!1sru!2sby"
+    },
+    "2": {
+      "name": "Queen Wilhelmina",
+      "img": "figure_2.jpeg",
+      "info": "Queen Wilhelmina of the Netherlands ascended to the throne at the age of 10 and became one of the most influential monarchs in the country's history. Her leadership during World War I and resistance against Nazi invasion in World War II set her apart as a historical figure. After abdicating in 1948, she continued to play a role as a symbol of national unity in the Netherlands.",
+      "birthDate": "31-08-1880",
+      "deathDate": "28-11-1962",
+      "bio": {
+        "1": {
+          "date": "1890",
+          "text": "Wilhelmina becomes the Queen of the Netherlands at the age of 10 after the death of her father, William III."
+        },
+        "2": {
+          "date": "1901",
+          "text": "Queen Wilhelmina reaches adulthood, marking the beginning of an active period of participation in the country's governance."
+        },
+        "3": {
+          "date": "1914-1918",
+          "text": "During World War I, the Netherlands remained neutral, and Wilhelmina played a crucial role in maintaining the country's neutrality."
+        },
+        "4": {
+          "date": "1930",
+          "text": "Queen Wilhelmina arranges the marriage of her only daughter, Juliana, to German Prince Bernhard."
+        },
+        "5": {
+          "date": "1940-1945",
+          "text": "During World War II, the Netherlands was occupied by Nazi Germany. Wilhelmina was in the country at the beginning of the war but later went to London, where she became a symbol of resistance."
+        },
+        "6": {
+          "date": "1948",
+          "text": "Queen Wilhelmina abdicates in favor of her daughter Juliana, after which she receives the title of Queen Mother."
+        },
+        "7": {
+          "date": "1962",
+          "text": "Queen Wilhelmina passes away at the age of 82 in the Netherlands."
+        }
+      },
+      "bioCount": "7",
+      "photos": "Wilhelmina",
+      "photosCount": "9",
+      "video": "https://www.youtube.com/embed/mUvtmhen290?si=XWf1T5MRVTLBALRA",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d157461.63629695418!2d4.1793647779683045!3d51.92778689070569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5b7605f54c47d%3A0x5229bbac955e4b85!2z0KDQvtGC0YLQtdGA0LTQsNC8LCDQndC40LTQtdGA0LvQsNC90LTRiw!5e0!3m2!1sru!2sby!4v1702669498062!5m2!1sru!2sby"
+    },
+    "3": {
+      "name": "Queen Juliana",
+      "img": "figure_3.jpeg",
+      "info": "Queen Juliana is a historical figure whose life was intertwined with the tragic events of World War II. In exile in Canada, she showed strength and resilience, becoming a symbol of resistance. Throughout her many years of reign and family challenges, Juliana remains a significant figure in Dutch history.",
+      "birthDate": "30-04-1909",
+      "deathDate": "20-03-2004",
+      "bio": {
+        "1": {
+          "date": "April 30, 1909",
+          "text": "Juliana is born in The Hague, Netherlands, the daughter of Queen Wilhelmina and Duke Henry."
+        },
+        "2": {
+          "date": "1937",
+          "text": "Juliana marries German Prince Bernhard, becoming the Princess of the Netherlands."
+        },
+        "3": {
+          "date": "1940-1945",
+          "text": "During World War II, Juliana and her family were in exile. She spent most of the war in Canada, where she gave birth to her daughter Margarita."
+        },
+        "4": {
+          "date": "1948",
+          "text": "Due to the abdication of her mother, Queen Wilhelmina, Juliana ascends to the throne of the Netherlands."
+        },
+        "5": {
+          "date": "1956",
+          "text": "Queen Juliana becomes a widow after the death of her husband, Prince Bernhard."
+        },
+        "6": {
+          "date": "1980",
+          "text": "Due to personal difficulties and public demands, she abdicates in favor of her daughter Beatrix."
+        },
+        "7": {
+          "date": "2004",
+          "text": "Queen Juliana passes away at her home in the Netherlands at the age of 94."
+        }
+      },
+      "bioCount": "7",
+      "photos": "juliana",
+      "photosCount": "10",
+      "video": "https://www.youtube.com/embed/_L7XlHjC7aE?si=zlWqy5UdoWrMGXay",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2451.9360076169296!2d4.3038828766545425!3d52.080894771949325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5b72fdfe99ded%3A0x8ff1e6b1c0cb564a!2sNoordeinde%20Palace!5e0!3m2!1sru!2sby!4v1702668229725!5m2!1sru!2sby"
+    },
+    "4": {
+      "name": "Queen Beatrix",
+      "img": "figure_4.jpeg",
+      "info": "Queen Beatrix of the Netherlands (born January 31, 1938) is a person whose life is intertwined with the history of her country. After ascending the throne in 1980, she went through difficult times, supporting the nation through periods of change and crisis, and eventually abdicated in favor of her son, remaining an important figure in Dutch history.",
+      "birthDate": "31-01-1938",
+      "deathDate": "pr. t.",
+      "bio": {
+        "1": {
+          "date": "January 31, 1938",
+          "text": "Beatrix is born in Baarn, Netherlands, the daughter of Queen Juliana and Prince Bernhard."
+        },
+        "2": {
+          "date": "1966",
+          "text": "Beatrix marries German Nobel laureate Prince Claus, later becoming Prince Consort."
+        },
+        "3": {
+          "date": "1980",
+          "text": "After the abdication of her mother, Queen Juliana, Beatrix ascends to the throne."
+        },
+        "4": {
+          "date": "1981",
+          "text": "Birth of her first son, Willem-Alexander, the heir to the throne."
+        },
+        "5": {
+          "date": "2002",
+          "text": "Death of Prince Claus, leaving Beatrix in the status of a widow."
+        },
+        "6": {
+          "date": "2010",
+          "text": "Queen Beatrix celebrates her 30th year on the throne, remaining a popular figure in the Netherlands."
+        },
+        "7": {
+          "date": "2013",
+          "text": "Abdication in favor of her son Willem-Alexander, who becomes the King of the Netherlands."
+        },
+        "8": {
+          "date": "After 2013",
+          "text": "Beatrix continues to play the role of matriarch of the royal family, participating in various events and supporting public and cultural initiatives."
+        }
+      },
+      "bioCount": "8",
+      "photos": "Beatrix",
+      "photosCount": "10",
+      "video": "https://www.youtube.com/embed/_L7XlHjC7aE?si=zlWqy5UdoWrMGXay",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2451.9360076169296!2d4.3038828766545425!3d52.080894771949325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5b72fdfe99ded%3A0x8ff1e6b1c0cb564a!2sNoordeinde%20Palace!5e0!3m2!1sru!2sby!4v1702668229725!5m2!1sru!2sby"
+    },
+    "5": {
+      "name": "Queen Maxima",
+      "img": "figure_5.jpeg",
+      "info": "Queen Máxima Zorreguieta, born on May 17, 1971, in Argentina, is the charismatic and compassionate queen consort of the Netherlands. A former banker, she married Crown Prince Willem-Alexander in 2002, capturing hearts with her grace and dedication to social causes. As queen since 2013, Máxima actively engages in charitable initiatives, emphasizing education and youth support, making her a beloved and influential figure in Dutch society.",
+      "birthDate": "17-05-1971",
+      "deathDate": "pr. t.",
+      "bio": {
+        "1": {
+          "date": "May 17, 1971",
+          "text": "Maxima Zorreguieta is born in Argentina."
+        },
+        "2": {
+          "date": "1995",
+          "text": "Maxima moves to the Netherlands, where she works in the banking sector."
+        },
+        "3": {
+          "date": "2002",
+          "text": "She marries Prince Willem-Alexander, becoming the Princess of the Netherlands."
+        },
+        "4": {
+          "date": "2003",
+          "text": "Birth of their first daughter, Catharina-Amalia."
+        },
+        "5": {
+          "date": "2013",
+          "text": "Due to the abdication of Queen Beatrix, Maxima becomes the Queen of the Netherlands."
+        },
+        "6": {
+          "date": "2013",
+          "text": "Coronation of Queen Maxima and King Willem-Alexander."
+        },
+        "7": {
+          "date": "2016",
+          "text": "Maxima actively participates in various charitable and social projects, particularly in the fields of education and youth support."
+        },
+        "8": {
+          "date": "2021",
+          "text": "During the COVID-19 pandemic, Queen Maxima provides support and participates in events aimed at helping the population."
+        }
+      },
+      "bioCount": "8",
+      "photos": "Maxima",
+      "photosCount": "11",
+      "video": "https://www.youtube.com/embed/YPzBrENc4FE?si=4tEsKyAyw-O5qTfH",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2451.9360076169296!2d4.3038828766545425!3d52.080894771949325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5b72fdfe99ded%3A0x8ff1e6b1c0cb564a!2sNoordeinde%20Palace!5e0!3m2!1sru!2sby!4v1702668229725!5m2!1sru!2sby"
+    }
+  }
+}
