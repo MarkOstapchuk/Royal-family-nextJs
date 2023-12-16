@@ -3,7 +3,6 @@ import {Avatar, Card, Link} from "@mui/material";
 import GitHubIcon from '@mui/icons-material/GitHub';
 
 const DevTeam = ({text,data}) => {
-
     return (
         <div className={styles.box}>
             <h2>{text}</h2>

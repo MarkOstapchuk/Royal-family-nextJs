@@ -5,6 +5,7 @@
   padding-top: 80px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)) , url("../../public/netherlands.webp");
   background-size: cover;
+  background-repeat: no-repeat;
   width: 100%;
   height: 100%;
 }
@@ -32,4 +33,86 @@
 }
 .dev_team {
   height: 100vh;
+}
+ //media
+
+@media screen and (max-width: 600px) {
+  .main {
+    height: 200px;
+    h1 {
+      font-size: 17px;
+      color: #ffffff;
+      text-align: center;
+      margin-top: 20px;
+    }
+  }
+  .intro {
+    height: auto;
+    h2 {
+      padding: 20px 0;
+      font-size: 15px;
+      line-height: 1.7;
+      width: 80%;
+      margin: 0 auto;
+    }
+  }
+  .day_figure {
+    height: auto;
+    background-color: rgba(49,48,50,0.33) ;
+    color: #333;
+    padding-bottom: 20px;
+  }
+  .dev_team {
+    height: auto;
+    padding: 20px 0;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .main {
+    height: 400px;
+    h1 {
+      font-size: 25px;
+      color: #ffffff;
+      text-align: center;
+      margin-top: 120px;
+    }
+  }
+  .intro {
+    height: auto;
+    h2 {
+      padding: 50px 0;
+      font-size: 25px;
+      line-height: 1.7;
+      width: 90%;
+      margin: 0 auto;
+    }
+  }
+  .day_figure {
+    height: auto;
+    padding-bottom: 70px;
+  }
+  .dev_team {
+    height: auto;
+    padding: 20px 0;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .main {
+    height: 600px;
+  }
+  .intro {
+    height: auto;
+    padding: 60px 0;
+    h2 {
+      padding-top: 0;
+    }
+  }
+  .day_figure {
+    height: auto;
+    padding-bottom: 70px;
+  }
+  .dev_team {
+    height: auto;
+    padding: 0 0 80px;
+  }
 }

@@ -30,3 +30,27 @@
     }
   }
 }
+@media screen and (max-width: 600px) {
+  .inner {
+    h2 {
+      padding-top: 20px;
+    }
+    .card {
+      display: block;
+    }
+    img {
+      width: 80%;
+      max-width: 80% !important;
+      display: block;
+      margin: 0 auto !important;
+    }
+    h3 {
+      font-size: 19px;
+      padding-top: 10px;
+      text-align: center;
+    }
+    h4 {
+      text-align: center;
+    }
+  }
+}
