@@ -32,7 +32,7 @@ const Figure = ({params}) => {
             </header>
             <div className="wrapper">
                 <div className={styles.info}>
-                    <img width={200} src={`/FigureList/${t('img')}`}/>
+                    <img width={200} src={`/figureList/${t('img')}`}/>
                     <div>
                         <h3>{t('name')}</h3>
                         <h4>{calcDate(t('birthDate'), t('deathDate'))}</h4>
